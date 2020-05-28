@@ -18,7 +18,7 @@ body {
                         rgba(255, 170, 0, 0.77), 
                         rgba(255, 21, 21, 0.77)
                         ),
-                        url('/background.jpg');
+                        url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80');
     background-size: cover;
 }
 #main {
@@ -57,7 +57,7 @@ body {
 #description {
     font-family: 'Poppins', sans-serif;
     font-style: italic;
-    font-size: rem;
+    font-size: 1rem;
 
 }
 input[type="text"], [type="email"], [type="number"] {
